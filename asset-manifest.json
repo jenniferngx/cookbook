@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cookbook/static/css/main.0860508c.css",
+    "main.js": "/cookbook/static/js/main.990c96b9.js",
+    "index.html": "/cookbook/index.html",
+    "main.0860508c.css.map": "/cookbook/static/css/main.0860508c.css.map",
+    "main.990c96b9.js.map": "/cookbook/static/js/main.990c96b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0860508c.css",
+    "static/js/main.990c96b9.js"
+  ]
+}
